@@ -1,3 +1,5 @@
 {
-  "base_url": "http://private-server.yakuza.biz.id:13035"
+  "base_url": "http://private-server.yakuza.biz.id:13035",
+  "ws_url": "ws://private-server.yakuza.biz.id:13035",
+  "rat_url": "http://felix-private.web.id:3286"
 }
